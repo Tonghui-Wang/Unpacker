@@ -1,1 +1,3 @@
-*.project linguist-language=ST
+*.project linguist-language=ST;
+*.library linguist-language=ST;
+*.compiled-library linguist-language=ST
